@@ -1,6 +1,7 @@
 # Bike Sharing Service Analysis
 
 ## Background
+The purpose of the project was to analyze available bike sharing data for New York City for the month of August. Results will be used to inform decision making related to launching a similar business in Des Moines, Iowa. Data included user information (i.e., birth year, gender, usertype) and trip information (i.e., start and end station name and coordinates, start time, stop time, trip duration). The data was used identify demographic information about the most common users and most common ride times and durations.
 
 ## Results
 ![GenderBreakdown](https://user-images.githubusercontent.com/96216947/160310011-37bc13f3-1467-4726-a262-2b3d7666f808.JPG)
@@ -28,4 +29,5 @@
 
 ## Summary
 
+Males utilize the bike sharing service more frequently than females in New York City. The data shows the service is most popular between 6am-9am and 4pm-7pm, Monday-Friday, with the majority of rides haveing a trip duration of less than 30 minutes. This utilization suggests the bike sharing service is primarily used to commute to and from work. The bike sharing service is popular throughout the day Saturday and Sunday. Finally, subscribers utilize the service more frequently than customers. Additional analysis of the data may include a comparison of the relationship between trip duration and birth year. It is expected those 20-60 years old would have shorter trip durations as this demographic is likely using the service for the commute to and from work. An additional analysis may also include a comparison of the relationship between the trips by weekday per hour and birth year. Again, it is expected those 20-60 years old would have greatest utilization 6am-9am and 4pm-7pm, Monday-Friday.
 
